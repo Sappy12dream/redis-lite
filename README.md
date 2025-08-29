@@ -1,1 +1,3 @@
 RedisLite is a lightweight, in-memory key-value store implemented in Java, mimicking core Redis functionality. It supports basic commands like SET, GET, and DEL, with optional TTL (time-to-live) for key expiry. A background TTLManager thread handles automatic deletion of expired keys. It includes a simple command-line interface (CLI) with support for quoted string values and extensible architecture for adding new data types or commands.
+
+> sapna
